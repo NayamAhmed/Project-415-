@@ -1,10 +1,10 @@
-Library Management System
+Library Management System ( So far just created the file no written code)
 
 Overview
 
 The Library Management System is a digital solution designed to manage and streamline library operations efficiently. It helps librarians and users track books, manage inventory, issue and return books, and generate reports.
 
-Features
+Features We will impement:
 
 User Management: Register and manage users (students, faculty, etc.).
 
@@ -18,7 +18,7 @@ Reporting & Analytics: Generate reports on book usage and inventory.
 
 Search & Filter: Advanced search functionality for books and members.
 
-Technologies Used
+Technologies We Will Use
 
 Frontend: HTML, CSS, JavaScript
 
